@@ -1,0 +1,1 @@
+import{c as n}from"./createLucideIcon-BB3sPo9v.js";const a=n("ChevronRightIcon",[["path",{d:"m9 18 6-6-6-6",key:"mthhwq"}]]),h=(t,c)=>{const o=t.__vccOpts||t;for(const[e,r]of c)o[e]=r;return o};export{a as C,h as _};
